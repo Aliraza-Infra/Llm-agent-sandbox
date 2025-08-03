@@ -1,0 +1,4 @@
+task_name: multilingual-greeting
+prompt: "Translate 'Hello, how are you?' into French."
+language: English → French
+type: translation
